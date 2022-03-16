@@ -259,7 +259,7 @@ header nav .btn:hover {
 
 .calculator {
   width: 95%;
-  height: 80vh;
+  min-height: 80vh;
   margin: auto;
 }
 
@@ -369,6 +369,7 @@ header nav .btn:hover {
 
 .faq {
   width: 95%;
+  min-height: 100vh;
   margin: auto;
 }
 
@@ -423,6 +424,7 @@ header nav .btn:hover {
   width: 95%;
   min-height: 70vh;
   margin: auto;
+  padding: 5vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

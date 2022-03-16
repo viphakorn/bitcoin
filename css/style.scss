@@ -224,7 +224,7 @@ header {
 }
 .calculator {
   width: 95%;
-  height: 80vh;
+  min-height: 80vh;
   margin: auto;
 
   .content {
@@ -308,6 +308,7 @@ header {
 }
 .faq {
   width: 95%;
+  min-height: 100vh;
   margin: auto;
 
   h1 {
@@ -357,6 +358,7 @@ header {
   width: 95%;
   min-height: 70vh;
   margin: auto;
+  padding: 5vw;
   display: flex;
   justify-content: center;
   flex-direction: column;
