@@ -355,7 +355,7 @@ header {
 }
 .subs {
   width: 95%;
-  height: 70vh;
+  min-height: 70vh;
   margin: auto;
   display: flex;
   justify-content: center;
