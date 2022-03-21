@@ -310,6 +310,10 @@ header {
   width: 95%;
   min-height: 100vh;
   margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
   h1 {
     color: $white;
